@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kashif Liaqat / Kashif Liaqat"
+title                    : "Kashif Liaqat"
 title_separator          : "-"
 name                     : &name "Kashif Liaqat"
 description              : &description "Fulbright Scholar - Mechanical Engineer"
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Kashif Liaqat"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Fulbright Scholar - Masters in Mechanical Engineering"
+  location         : "Tallahassee, FL, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wad9lnIAAAAJ&hl=en"
-  email            : "kliaqat at fsu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "kliaqat@fsu.edu"
+  researchgate     : "https://www.researchgate.net/profile/Kashif-Liaqat-2"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/kashif-liaqat-kl/"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  #twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
