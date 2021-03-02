@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV [Download PDF](https://github.com/kashifliaqat/kashifliaqat.github.io/blob/master/files/Kashif_s_Resume.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
