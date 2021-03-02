@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 [Download PDF](https://github.com/kashifliaqat/kashifliaqat.github.io/blob/master/files/Kashif_s_Resume.pdf)
 
-Education
+<ins>Education</ins>
 ======
 ### M.S. in Mechanical Engineering, 2021 (Expected) <br>
 Florida State University (FSU), Tallahassee, USA <br>
@@ -22,14 +22,14 @@ CGPA: 3.92/4.0 <br>
 Awards: Presidential Award - Gold Medalist <br>
 
 
-Skills
+<ins>Skills</ins>
 ======
 * **Languages:** Python, R, MATLAB
 * **Tools/Software:** Git, Microsoft Office Suite, SolidWorks, SolidEdge, AutoCAD, Siemens NX, Ansys, Mathematica, System Advisor Model (SAM), NREL PVWatts, GeoSpatial Toolkit, Arduino, Data Analysis and Machine Learning
 * **Frameworks:** Numpy, Tensorflow, Matplotlib, Pyomo, Pysolar
 
 
-Work Experience
+<ins>Work Experience</ins>
 ======
 * **Alliance for Sustainable Energy, National Renewable Energy Laboratory (NREL), CO, USA**   (June 2020 - Dec 2020)
   * Graduate Intern - Thermal Optimization
@@ -42,7 +42,7 @@ Work Experience
   * Duties: Conducted literature review & procured materials for experimental work and setup Lab for experimental part of the project.
 
 
-Publications
+<ins>Publications</ins>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
