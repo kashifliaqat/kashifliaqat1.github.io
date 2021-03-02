@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-### * M.S. in Mechanical Engineering, 2021 (Expected) <br>
+### M.S. in Mechanical Engineering, 2021 (Expected) <br>
 Florida State University (FSU), Tallahassee, USA <br>
 CGPA: 3.89/4.0 <br>
 Awards: Fulbright Scholarship
-### * B.S. in Mechanical Engineering, 2018 <br>
+### B.S. in Mechanical Engineering, 2018 <br>
 Balochistan University of Information Technology, Engineering and Management Sciences (BUITEMS), Quetta, Pakistan <br>
 CGPA: 3.92/4.0 <br>
 Awards: Presidential Award - Gold Medalist <br>
