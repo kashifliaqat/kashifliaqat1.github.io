@@ -25,7 +25,7 @@ Awards: Presidential Award - Gold Medalist <br>
 Skills
 ======
 * **Languages:** Python, R, MATLAB
-* **Tools/Software:** Git, Microsoft Office Suite, SolidWorks, SolidEdge, AutoCAD, Siemens NX, Ansys, Mathematica, System Advisor Model (SAM), NREL PVWatts, GeoSpatial Toolkit, Arduino, Data Analysis
+* **Tools/Software:** Git, Microsoft Office Suite, SolidWorks, SolidEdge, AutoCAD, Siemens NX, Ansys, Mathematica, System Advisor Model (SAM), NREL PVWatts, GeoSpatial Toolkit, Arduino, Data Analysis and Machine Learning
 * **Frameworks:** Numpy, Tensorflow, Matplotlib, Pyomo, Pysolar
 
 
