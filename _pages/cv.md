@@ -33,7 +33,7 @@ Skills
 
 Work Experience
 ======
-* June 2020 - Dec 2020: Alliance for Sustainable Energy, National Renewable Energy Laboratory (NREL), CO, USA
+* ### June 2020 - Dec 2020: Alliance for Sustainable Energy, National Renewable Energy Laboratory (NREL), CO, USA
   * Graduate Intern - Thermal Optimization
   * Project: Heliostat Aimpoint and Location Optimization Software (HALOS) for Solar Tower Plants
     * Implemented methods that characterize the thermal flux image transferred from a mirror to a receiver surface
@@ -42,7 +42,7 @@ Work Experience
     * Contributed to the development of an software library & implemented Python API for SolarPilot (open source tool)
     * Created case studies for commercial scale plants - Publication in Progress
 
-* Dec 2018 - Aug 2019: Balochistan University of IT, Engineering & Management Sciences (BUITEMS), Quetta, Pakistan
+* ### Dec 2018 - Aug 2019: Balochistan University of IT, Engineering & Management Sciences (BUITEMS), Quetta, Pakistan
   * Research Associate - Department of Mechanical Engineering
   * Project: Efficiency Enhancement of a Concentrated Solar Collector using Nano-Fluids
     * Conducted literature review & procured materials for experimental work
