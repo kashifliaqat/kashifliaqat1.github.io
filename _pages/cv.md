@@ -11,9 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Mechanical Engineering, 2021
+Florida State University (FSU), Tallahassee, USA
+CGPA: 3.89/4.0
+Awards: Fulbright Scholarship
+* B.S. in Mechanical Engineering, 2018
+Balochistan University of Information Technology, Engineering and Management Sciences (BUITEMS), Quetta, Pakistan
+CGPA: 3.92/4.0
+Awards: Presidential Award - Gold Medalist
 
 Work experience
 ======
