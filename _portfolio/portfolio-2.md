@@ -1,7 +1,0 @@
----
-title: "Design of a Concentrated Solar Power Plant using Parabolic Trough Collectors (PTC)"
-excerpt: "[Link to details](https://kashifliaqat.github.io/publication/2018-09-01-CSP1) <br/><img src='/images/PTC.jpg'><img src='/images/CSP.jpg'>"
-collection: portfolio
----
-
-[Link to details](https://kashifliaqat.github.io/publication/2018-09-01-CSP1)
