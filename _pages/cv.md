@@ -24,12 +24,9 @@ Awards: Presidential Award - Gold Medalist <br>
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Languages:** Python, R, MATLAB
+* **Tools/Software:** Git, Microsoft Office Suite, SolidWorks, SolidEdge, AutoCAD, Siemens NX, Ansys, Mathematica, System Advisor Model (SAM), NREL PVWatts, GeoSpatial Toolkit, Arduino, Data Analysis
+* **Frameworks:** Numpy, Tensorflow, Matplotlib, Pyomo, Pysolar
 
 
 Work Experience
