@@ -10,8 +10,10 @@ location: "Quetta, Pakistan"
 
 MECH-421 - 3 Credit Hours - Spring 2021
 
+<!---
 Internal Combustion Engines
 ======
+-->
 
 Welcome to IC Engine class! 
 The course material and lectures will be posted on this site and students will be notified accordingly. 
