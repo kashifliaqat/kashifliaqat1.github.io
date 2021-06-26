@@ -2,7 +2,7 @@
 title: "Internal Combustion Engines"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2021-spring-ic-engine.md
+permalink: /teaching/2021-spring-ic-engine
 venue: "BUITEMS, Department of Mechanical Engineering"
 date: 2021-06-28
 location: "Quetta, Pakistan"
