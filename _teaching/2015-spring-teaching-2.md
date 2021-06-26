@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 2"
+title: "Internal Combustion Engines"
 collection: teaching
-type: "Workshop"
+type: "Lecture"
 permalink: /teaching/2015-spring-teaching-2
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "BUITEMS, Department of Mechanical Engineering"
+date: 2021-06-28
+location: "Quetta, Pakistan"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+MECH-421 - 3 Credit Hours - Spring 2021
 
-Heading 1
+Internal Combustion Engines
 ======
 
-Heading 2
-======
+Welcome to IC Engine class! 
+The course material and lectures will be posted on this site and students will be notified accordingly. 
 
-Heading 3
+Downloads
 ======
+[Course Outline/Syllabus](https://github.com/kashifliaqat/kashifliaqat.github.io/blob/master/files/ic_syllabus.pdf)
