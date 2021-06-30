@@ -20,4 +20,10 @@ The course material and lectures will be posted on this site and students will b
 
 Downloads
 ======
-[Course Outline/Syllabus](https://github.com/kashifliaqat/kashifliaqat.github.io/blob/master/files/ic_syllabus.pdf)
+[Course Outline/Syllabus](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_syllabus.pdf)
+
+Lectures
+======
+[Lecture 1 (28/06/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/IC_Engine_1.pdf)
+
+Lecture 2 (05/07/2021): Please revise basic concepts of thermodynamics before the class (Processess, Cycles etc)
