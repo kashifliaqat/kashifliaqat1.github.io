@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download PDF](https://github.com/kashifliaqat/kashifliaqat.github.io/blob/master/files/Kashif_s_Resume.pdf)
+[Download PDF](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/Kashif_s_Resume.pdf)
 
 <ins>Education</ins>
 ======
-### M.S. in Mechanical Engineering, 2021 (Expected) <br>
+### M.S. in Mechanical Engineering, 2021 <br>
 Florida State University (FSU), Tallahassee, USA <br>
 CGPA: 3.89/4.0 <br>
 Awards: Fulbright Scholarship
