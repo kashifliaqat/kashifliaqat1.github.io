@@ -26,4 +26,5 @@ Lectures
 ======
 [Lecture 1 (28/06/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/IC_Engine_1.pdf)
 
-Lecture 2 (05/07/2021): Please revise basic concepts of thermodynamics before the class (Processess, Cycles etc)
+[Lecture 2 (05/07/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf): Reference Book: "Engineering Fundamentals of the
+Internal Combustion Engine" by Willard W. Pulkrabek, Second Edition
