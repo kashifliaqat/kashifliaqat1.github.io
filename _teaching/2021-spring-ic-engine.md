@@ -33,3 +33,8 @@ Lectures
 (19/07/2021) - Eid Ul Adha 2021 
 
 (26/07/2021) - PEC Visit - Class to be rescheduled!
+
+[Lecture 4 (02/08/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)
+
+
+
