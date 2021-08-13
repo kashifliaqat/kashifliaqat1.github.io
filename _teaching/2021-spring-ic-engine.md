@@ -26,19 +26,15 @@ Lectures
 ======
 Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by Willard W. Pulkrabek, Second Edition
 
-[Lecture 1 (28/06/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/IC_Engine_1.pdf)
-
-[Lecture 2 (05/07/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf) 
-
-[Lecture 3 (12/07/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_3.pdf)
-
-(19/07/2021) - Eid Ul Adha 2021 
-
-(26/07/2021) - PEC Visit - Class to be rescheduled!
-
-[Lecture 4 (02/08/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)
-
-[Lecture 5 (09/08/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)
+| **Date**   | **Lecture No. (Download Link)**                                                                                      | **Topic**                            |
+|------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| 28/06/2021 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/IC_Engine_1.pdf)                 | Introduction                         |
+| 05/07/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf)  | Operating Characteristics            |
+| 12/07/2021 | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_3.pdf)  | Problems (Operating Characteristics) |
+| 19/07/2021 |                                                                                                                      | No Class - Eid Ul Adha 2021          |
+| 26/07/2021 |                                                                                                                      | PEC Visit - Class to be rescheduled! |
+| 02/08/2021 | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)  | Engine Cycles                        |
+| 09/08/2021 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)  | Problems (Engine Cycles)             |
 
 Assignments/Homeworks
 ======
