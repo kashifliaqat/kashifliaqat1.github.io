@@ -38,6 +38,8 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 
 [Lecture 4 (02/08/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)
 
+[Lecture 5 (09/08/2021)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)
+
 Assignments/Homeworks
 ======
 [Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_1_IC_Engine.pdf) - Due at class time (16/08/2021)
