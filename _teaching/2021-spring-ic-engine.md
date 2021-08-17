@@ -21,6 +21,8 @@ The course material and lectures will be posted on this site and students will b
 Downloads
 ======
 [Course Outline/Syllabus](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_syllabus.pdf)
+    
+[Grades](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/grades_ic_engine.pdf)
 
 Lectures
 ======
@@ -35,6 +37,7 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | 26/07/2021 |                                                                                                                      | PEC Visit - Class to be rescheduled! |
 | 02/08/2021 | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)  | Engine Cycles                        |
 | 09/08/2021 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)  | Problems (Engine Cycles)             |
+| 16/08/2021 | [Lecture 6](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_6.pdf)  | Engine Fuels and Knocking            |
 
 Assignments/Homeworks
 ======
