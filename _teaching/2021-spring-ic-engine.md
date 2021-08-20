@@ -34,10 +34,11 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | 05/07/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf)  | Operating Characteristics            |
 | 12/07/2021 | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_3.pdf)  | Problems (Operating Characteristics) |
 | 19/07/2021 |                                                                                                                      | No Class - Eid Ul Adha 2021          |
-| 26/07/2021 |                                                                                                                      | PEC Visit - Class to be rescheduled! |
+| 26/07/2021 | PEC Visit - Class to be rescheduled!                                                                                 | Scheduled on 20/08/2021              |
 | 02/08/2021 | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)  | Engine Cycles                        |
 | 09/08/2021 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)  | Problems (Engine Cycles)             |
 | 16/08/2021 | [Lecture 6](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_6.pdf)  | Engine Fuels and Knocking            |
+| 20/08/2021 | Lecture 7                                                                                                            | Quiz 1 + Mid Exam Review             |
 
 Assignments/Homeworks
 ======
