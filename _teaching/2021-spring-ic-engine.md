@@ -24,6 +24,8 @@ Downloads
     
 [Grades](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/grades_ic_engine.pdf)
 
+[Formula Sheet](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Mid_Formula_Sheet.pdf)
+
 Lectures
 ======
 Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by Willard W. Pulkrabek, Second Edition
