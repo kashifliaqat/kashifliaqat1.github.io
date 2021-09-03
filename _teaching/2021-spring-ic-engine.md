@@ -25,6 +25,7 @@ Downloads
 [Grades](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/grades_ic_engine.pdf)
 
 [Formula Sheet](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Mid_Formula_Sheet.pdf)
+
 [Presentation groups](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Presentation_groups.pdf)
 
 Lectures
@@ -41,7 +42,9 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | 02/08/2021 | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)  | Engine Cycles                        |
 | 09/08/2021 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)  | Problems (Engine Cycles)             |
 | 16/08/2021 | [Lecture 6](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_6.pdf)  | Engine Fuels and Knocking            |
-| 20/08/2021 | Lecture 7                                                                                                            | Quiz 1 + Mid Exam Review             |
+| 20/08/2021 | Lecture 7                                                                                                            | Quiz 1 + Mid Exam Review             | 
+| 23/08/2021 | No Class                                                                                                             |  Mid Exams                           |
+| 30/08/2021 | No Class                                                                                                             |  Mid Exams                           |
 
 Assignments/Homeworks
 ======
