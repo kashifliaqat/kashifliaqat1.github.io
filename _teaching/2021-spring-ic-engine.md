@@ -28,6 +28,8 @@ Downloads
 
 [Presentation groups](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Presentation_groups.pdf)
 
+[Society Form](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Student%20Application%20Form.pdf)
+
 Lectures
 ======
 Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by Willard W. Pulkrabek, Second Edition
@@ -49,3 +51,7 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 Assignments/Homeworks
 ======
 [Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_1_IC_Engine.pdf) - Due at class time (16/08/2021)
+
+[Homework 2 (Complex Engineering Problem #1)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine_CEP.pdf) - Due at class time (04/10/2021)
+
+
