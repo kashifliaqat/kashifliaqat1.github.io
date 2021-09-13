@@ -26,7 +26,8 @@ Downloads
 
 [Formula Sheet](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Mid_Formula_Sheet.pdf)
 
-[Presentation groups](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Presentation_groups.pdf)
+[Presentation groups](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Presentation_groups.pdf) - 
+[Presentation topics](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_Presentation_Topics.pdf)
 
 [Society Form](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Student%20Application%20Form.pdf)
 
@@ -47,6 +48,9 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | 20/08/2021 | Lecture 7                                                                                                            | Quiz 1 + Mid Exam Review             | 
 | 23/08/2021 | No Class                                                                                                             |  Mid Exams                           |
 | 30/08/2021 | No Class                                                                                                             |  Mid Exams                           |
+| 06/09/2021 | [Lecture 8](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_8.pdf)  | Air and Fuel Induction               |
+
+
 
 Assignments/Homeworks
 ======
