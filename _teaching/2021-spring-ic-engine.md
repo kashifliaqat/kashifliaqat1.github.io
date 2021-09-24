@@ -46,11 +46,11 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | 09/08/2021 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)  | Problems (Engine Cycles)             |
 | 16/08/2021 | [Lecture 6](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_6.pdf)  | Engine Fuels and Knocking            |
 | 20/08/2021 | Lecture 7                                                                                                            | Quiz 1 + Mid Exam Review             | 
-| 23/08/2021 | No Class                                                                                                             |  Mid Exams                           |
-| 30/08/2021 | No Class                                                                                                             |  Mid Exams                           |
+| 23/08/2021 | No Class                                                                                                             | Mid Exams                           |
+| 30/08/2021 | No Class                                                                                                             | Mid Exams                           |
 | 06/09/2021 | [Lecture 8](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_8.pdf)  | Air and Fuel Induction               |
-
-
+| 13/09/2021 | [Lecture 9](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_9.pdf)  | Air and Fuel Induction (Problems)    |
+| 20/09/2021 | Lecture 10                                                                                                           | Student Presentations                |
 
 Assignments/Homeworks
 ======
