@@ -59,4 +59,4 @@ Assignments/Homeworks
 
 [Homework 2 (Complex Engineering Problem #1)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine_CEP.pdf) - Due at class time (04/10/2021)
 
-
+[Homework 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine.pdf) - Due at class time (11/10/2021)
