@@ -82,7 +82,9 @@ analytics:
 author:
   name             : "Kashif Liaqat"
   avatar           : "profile.png.jpeg"
-  bio              : "| Fulbright Scholar \n Masters in Mechanical Engineering"
+  bio              : |
+                      This has one newline.
+                      xyz
   location         : "Tallahassee, FL, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
