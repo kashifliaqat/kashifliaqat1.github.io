@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kashif Liaqat"
   avatar           : "profile.png.jpeg"
-  bio              : "Fulbright Scholar" | "Lecturer (BUITEMS, Pakistan)" | "MS Mechanical Engineering"
+  bio              : | "Fulbright Scholar" \n "Lecturer (BUITEMS, Pakistan)" \n "MS Mechanical Engineering"
   location         : "Tallahassee, FL, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
