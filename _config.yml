@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kashif Liaqat"
   avatar           : "profile.png.jpeg"
-  bio              : |+
+  bio              : |>
                       This has one newline.\n
                       xyz\n
                       \n
