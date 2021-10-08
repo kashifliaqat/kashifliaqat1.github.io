@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kashif Liaqat"
   avatar           : "profile.png.jpeg"
-  bio              : | "Fulbright Scholar" \n "Lecturer (BUITEMS, Pakistan)" \n "MS Mechanical Engineering"
-  location         : "Tallahassee, FL, USA"
+  bio              : "Fulbright Scholar | Lecturer (BUITEMS, Pakistan) | MS Mechanical Engineering"
+  location         : "Quetta, Pakistan"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wad9lnIAAAAJ&hl=en"
-  email            : "kliaqat@fsu.edu"
+  email            : "kl19bb@my.fsu.edu"
   researchgate     : "https://www.researchgate.net/profile/Kashif-Liaqat-2"
   uri              :
   bitbucket        :
