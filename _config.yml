@@ -83,8 +83,10 @@ author:
   name             : "Kashif Liaqat"
   avatar           : "profile.png.jpeg"
   bio              : |+
-                      This has one newline.
-                      xyz
+                      This has one newline.\n
+                      xyz\n
+                      \n
+                      \n
   location         : "Tallahassee, FL, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
