@@ -82,11 +82,14 @@ analytics:
 author:
   name             : "Kashif Liaqat"
   avatar           : "profile.png.jpeg"
-  bio              : |
-                      This has one newline.\n
-                      xyz\n
-                      \n
-                      \n
+  bio              : >\n
+··Several lines of text,\n
+··with some "quotes" of various 'types',\n
+··and also a blank line:\n
+··\n
+··plus another line at the end.\n
+··\n
+··\n
   location         : "Tallahassee, FL, USA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
