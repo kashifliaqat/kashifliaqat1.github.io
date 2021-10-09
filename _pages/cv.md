@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 [Download PDF](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/Kashif_s_Resume.pdf)
 
-<embed src="https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/Kashif_s_Resume.pdf" width="1000px" height="800px" />
 
 <ins>Education</ins>
 ======
