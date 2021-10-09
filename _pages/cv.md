@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 [Download PDF](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/Kashif_s_Resume.pdf)
 
+<embed src="https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/Kashif_s_Resume.pdf" type="application/pdf">
+
+
 <ins>Education</ins>
 ======
 ### M.S. in Mechanical Engineering, 2021 <br>
