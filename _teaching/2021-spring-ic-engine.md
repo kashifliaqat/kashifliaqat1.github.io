@@ -53,7 +53,7 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | 20/09/2021 | Lecture 10                                                                                                           | Student Presentations                |
 | 27/09/2021 | [Lecture 11](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_10.pdf)| Fluid Motion - Exhaust Flow          |
 | 04/10/2021 | [Lecture 12](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_12.pdf)| Heat Transfer in Engines             |
-| 11/10/2021 | [Lecture 11](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_13.pdf)| Engine Emissions and Pollution       |
+| 11/10/2021 | [Lecture 13](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_13.pdf)| Engine Emissions and Pollution       |
 
 
 Assignments/Homeworks
