@@ -24,7 +24,7 @@ Downloads
     
 [Grades](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/grades_ic_engine.pdf)
 
-[Formula Sheet](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Mid_Formula_Sheet.pdf)
+[Formula Sheet](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Final_Formula_Sheet.pdf)
 
 [Presentation groups](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Presentation_groups.pdf) - 
 [Presentation topics](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_Presentation_Topics.pdf)
