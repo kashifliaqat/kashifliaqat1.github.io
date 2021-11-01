@@ -8,7 +8,7 @@ date: 2021-06-28
 location: "Quetta, Pakistan"
 ---
 
-MECH-421 - 3 Credit Hours - Spring 2021
+MECH-421 - 2 Credit Hours - Spring 2021
 
 <!---
 Internal Combustion Engines
