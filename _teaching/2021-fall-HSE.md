@@ -4,7 +4,7 @@ After this line is commented
 title: "Health, Safety & Environmental Management"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2021-fall-HSE
+permalink: /teaching/2021-fall-HSE.md
 venue: "BUITEMS, Department of Mechanical Engineering"
 date: 2021-11-08
 location: "Quetta, Pakistan"
