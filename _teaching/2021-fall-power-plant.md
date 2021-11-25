@@ -30,3 +30,4 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | 11/11/2021 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec1.pdf) | Introduction to Energy and Power     |
 | 18/11/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec1.pdf) | Load Curve and Plant Characteristics |
+| 25/11/2021 | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec3.pdf) | Intro to Steam Power Plants & Carnot Cycle |
