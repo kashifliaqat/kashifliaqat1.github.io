@@ -28,7 +28,7 @@ Reference Book: "Safety at Work" by John Ridley and John Channing, Seventh Editi
 | **Date**   | **Lecture No. (Download Link)**                                                                                      | **Topic**                            |
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | 19/11/2021 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_1_HSE.pdf)     | Introduction to Health & Safety      |
-| 26/11/2021 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_2_HSE.pdf)     | Accident Preventation & PPE          |
+| 26/11/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_2_HSE.pdf)     | Accident Preventation & PPE          |
 
 Assignments/Homeworks
 ======
