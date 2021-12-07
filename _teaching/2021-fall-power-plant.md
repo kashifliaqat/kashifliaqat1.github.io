@@ -33,3 +33,7 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 | 25/11/2021 (Week 3) | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec3.pdf) | Intro to Steam Power Plants & Carnot Cycle |
 | 01/12/2021 (Week 4) | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec4.pdf) | Rankine Cycle |
 | 08/12/2021 (Week 4) | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec5.pdf) | Regenerative Rankine Cycle |
+
+Assignments/Homeworks
+======
+[Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Homework_1_Power_Plants.pdf) - Due at class time (22/12/2021)
