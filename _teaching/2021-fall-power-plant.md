@@ -34,6 +34,8 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 | 01/12/2021 (Week 4) | [Lecture 4 Combined](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec4.pdf) | Rankine Cycle |
 | 08/12/2021 (Week 5) | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec5.pdf) | Regenerative Rankine Cycle |
 | 09/12/2021 (Week 5) | [Lecture 6](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec6.pdf) | Steam Generators & Cooling Systems |
+
+
 Assignments/Homeworks
 ======
 [Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Homework_1_Power_Plants.pdf) - Due at class time (22/12/2021)
