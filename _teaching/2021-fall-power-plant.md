@@ -38,6 +38,8 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 | 16/12/2021 (Week 6) | [Lecture 8](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec8.pdf) | Gas Power Plants |
 | 22/12/2021 (Week 7) | [Lecture 9](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec9.pdf) | More on Gas Power Plants |
 | 23/12/2021 (Week 7) | [Lecture 10](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec10.pdf) | Modifications of Gas Power Plants |
+
+
 Assignments/Homeworks
 ======
 [Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Homework_1_Power_Plants.pdf) - Due at class time (22/12/2021)
