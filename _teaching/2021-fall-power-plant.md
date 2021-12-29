@@ -45,3 +45,4 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 Assignments/Homeworks
 ======
 [Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Homework_1_Power_Plants.pdf) - Due at class time (22/12/2021)
+Quiz 1 - 30/12/2021 
