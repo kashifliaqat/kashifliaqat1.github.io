@@ -21,6 +21,9 @@ The course material and lectures will be posted on this site and students will b
 Downloads
 ======
 
+[Formula Sheet - Mid Term](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/PP_mid_Formula_Sheet.pdf)
+
+
 Lectures
 ======
 Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CPC Press, 2021
