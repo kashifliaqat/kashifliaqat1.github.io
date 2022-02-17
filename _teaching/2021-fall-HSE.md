@@ -21,6 +21,8 @@ The course material and lectures will be posted on this site and students will b
 Downloads
 ======
 
+[Grades](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Grading_HSE.pdf)
+
 Lectures
 ======
 Reference Book: "Safety at Work" by John Ridley and John Channing, Seventh Edition
