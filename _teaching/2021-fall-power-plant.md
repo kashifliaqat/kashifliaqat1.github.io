@@ -21,6 +21,9 @@ The course material and lectures will be posted on this site and students will b
 Downloads
 ======
 
+
+[Grades](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Grading_PP.pdf)
+
 [Formula Sheet - Mid Term](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/PP_mid_Formula_Sheet.pdf)
 
 
