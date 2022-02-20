@@ -46,7 +46,7 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 | 23/12/2021 (Week 7) | [Lecture 10](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec10_11.pdf) | Modifications of Gas Power Plants |
 | 29/12/2021 (Week 8) | [Lecture 11](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec10_11.pdf) | Applications of Gas Turbines |
 | 30/12/2021 (Week 8) | Lecture 12 | Quiz 1 + Review for Mid Exam |
-
+| 16/02/2021 (Week 9) | [Lecture 13 Combined](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec13.pdf) | Combined Cycle Power Plants |
 
 Assignments/Homeworks
 ======
