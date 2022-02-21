@@ -31,6 +31,9 @@ Reference Book: "Safety at Work" by John Ridley and John Channing, Seventh Editi
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | 19/11/2021 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_1_HSE.pdf)     | Introduction to Health & Safety      |
 | 26/11/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_2_HSE.pdf)     | Accident Preventation & PPE          |
+| 14/02/2022 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_5_HSE.pdf)     | Toxicology          		   |
+| 21/02/2022 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_5_HSE.pdf)     | Chemicals at work         	   |
+
 
 Assignments/Homeworks
 ======
