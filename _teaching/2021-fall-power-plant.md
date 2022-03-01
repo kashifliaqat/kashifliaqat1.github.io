@@ -46,7 +46,12 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 | 23/12/2021 (Week 7) | [Lecture 10](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec10_11.pdf) | Modifications of Gas Power Plants |
 | 29/12/2021 (Week 8) | [Lecture 11](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec10_11.pdf) | Applications of Gas Turbines |
 | 30/12/2021 (Week 8) | Lecture 12 | Quiz 1 + Review for Mid Exam |
-| 16/02/2021 (Week 9) | [Lecture 13 Combined](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec13.pdf) | Combined Cycle Power Plants |
+| 16/02/2022 (Week 9) | [Lecture 13 Combined](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec13.pdf) | Combined Cycle Power Plants |
+| 17/02/2022 (Week 9) | See Lecture 13 | Combined Cycle Power Plants Continued |
+| 23/02/2022 (Week 10) | [Lecture 14](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec14.pdf) | Nuclear Power Plants |
+| 24/02/2022 (Week 10) | [Lecture 15](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec15.pdf) | Solar Energy |
+| 02/03/2022 (Week 11) | [Lecture 16](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec16.pdf) | Solar Radiation |
+
 
 Assignments/Homeworks
 ======
