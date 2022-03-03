@@ -60,3 +60,5 @@ Assignments/Homeworks
 Quiz 1 - 30/12/2021 
 
 [Mini Project](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Homework_2_Power_Plants.pdf) - Due at class time (30/03/2022)
+
+[Homework 2 (CEP)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Homework_3_Power_Plants_CEP.pdf) - Due at class time (22/03/2022)
