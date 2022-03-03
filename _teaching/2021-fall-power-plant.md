@@ -50,7 +50,8 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 | 17/02/2022 (Week 9) | See Lecture 13 | Combined Cycle Power Plants Continued |
 | 23/02/2022 (Week 10) | [Lecture 14](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec14.pdf) | Nuclear Power Plants |
 | 24/02/2022 (Week 10) | [Lecture 15](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec15.pdf) | Solar Energy |
-| 02/03/2022 (Week 11) | [Lecture 16](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec16.pdf) | Solar Radiation |
+| 02/03/2022 (Week 11) | [Lecture 16](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec16.pdf) and [Lecture 17](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec17.pdf)| Solar Radiation + Photovoltaics |
+| 03/03/2022 (Week 11) | [Lecture 18](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec18.pdf) | Photovoltaics & Renewable Energy Modeling Tools |
 
 
 Assignments/Homeworks
