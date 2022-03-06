@@ -40,3 +40,5 @@ Assignments/Homeworks
 Homework 1 (Assigned by Dr. AK) - Due at class time (10/12/2021)
 
 [Homework 2 (Case Study)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Homework_1_HSE.pdf) - Due at class time (21/03/2022)
+
+[Homework 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Homework_3_HSE.pdf) - Due at class time (14/03/2022)
