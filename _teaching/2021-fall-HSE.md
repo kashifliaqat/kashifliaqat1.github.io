@@ -37,7 +37,7 @@ Reference Book: "Safety at Work" by John Ridley and John Channing, Seventh Editi
 | 07/03/2022 | See Lecture 6    | Manual Handling, CTD        	   |
 | 14/03/2022 | [Lecture 7](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_7_HSE.pdf)     | Vibration Hazards        	   |
 | 21/03/2022 | [Lecture 8](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_8_HSE.pdf)     | Labour Code of Pakistan      	   |
-| 28/03/2022 | [Lecture 9](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_9_HSE.pdf)     | Hazard Identification & Assessment      	   |
+| 28/03/2022 | [Lecture 9](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Lecture_9_HSE.pdf)     | Hazard Identification & Assessment    |
 
 
 Assignments/Homeworks
