@@ -55,6 +55,7 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 | 09/03/2022 (Week 12) | [Lecture 19](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec19.pdf) | Solar Thermal |
 | 10/03/2022 (Week 12) | [Lecture 20](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec20.pdf) | Wind Energy - Part 1 |
 | 16/03/2022 (Week 13) | [Lecture 21](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec21.pdf) | Wind Energy - Part 2 |
+| 17/03/2022 (Week 13) | [Lecture 22](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec21.pdf) | Economics of Power Generation |
 
 
 Assignments/Homeworks
