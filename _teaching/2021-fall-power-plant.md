@@ -55,7 +55,13 @@ Reference Book(s): 1. Power Plant Engineering, Farshid Zabihian, 1st Edition, CP
 | 09/03/2022 (Week 12) | [Lecture 19](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec19.pdf) | Solar Thermal |
 | 10/03/2022 (Week 12) | [Lecture 20](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec20.pdf) | Wind Energy - Part 1 |
 | 16/03/2022 (Week 13) | [Lecture 21](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec21.pdf) | Wind Energy - Part 2 |
-| 17/03/2022 (Week 13) | [Lecture 22](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec21.pdf) | Economics of Power Generation |
+| 17/03/2022 (Week 13) | [Lecture 22](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec22.pdf) | Economics of Power Generation |
+| 23/03/2022 (Week 14) | No Class - Pakistan Day | |
+| 24/03/2022 (Week 14) | [Lecture 23 (Geothermal Energy)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec23.pdf) and [Lecture 24 (Tidal & Biomass)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec24.pdf) | Geothermal, Tidel, Biomass |
+| 30/03/2022 (Week 15) | [Lecture 25 (Hydro Power)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec25.pdf) and [Lecture 26 (Energy Storage)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec26.pdf) | Hydro, Storage Techniques |
+| 31/03/2022 (Week 15) | [Lecture 27](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/fall_2021/Power_Plants_Lec27.pdf) | Environmental Aspects |
+
+
 
 
 Assignments/Homeworks
