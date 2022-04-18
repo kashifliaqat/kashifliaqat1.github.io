@@ -21,6 +21,8 @@ The course material and lectures will be posted on this site and students will b
 Downloads
 ======
 [Course Outline/Syllabus](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_syllabus.pdf)
+
+<!--
     
 [Grades](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/grades_ic_engine.pdf)
 
@@ -30,6 +32,7 @@ Downloads
 [Presentation topics](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_Presentation_Topics.pdf)
 
 [Quiz 1 - MATLAB Code](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Quiz_1_MATLAB_Code.pdf)
+-->
 
 Lectures
 ======
@@ -37,7 +40,10 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 
 | **Date**   | **Lecture No. (Download Link)**                                                                                      | **Topic**                            |
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| 28/06/2021 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/IC_Engine_1.pdf)                 | Introduction                         |
+| 20/04/2022 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/IC_Engine_1.pdf)                 | Introduction                         |
+
+<!--
+
 | 05/07/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf)  | Operating Characteristics            |
 | 12/07/2021 | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_3.pdf)  | Problems (Operating Characteristics) |
 | 19/07/2021 |                                                                                                                      | No Class - Eid Ul Adha 2021          |
@@ -55,11 +61,16 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | 04/10/2021 | [Lecture 12](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_12.pdf)| Heat Transfer in Engines             |
 | 11/10/2021 & 18/10/2021 | [Lecture 13](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_13.pdf)| Engine Emissions and Pollution       |
 
+-->
 
 Assignments/Homeworks
 ======
+
+<!--
 [Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_1_IC_Engine.pdf) - Due at class time (16/08/2021)
 
 [Homework 2 (Complex Engineering Problem #1)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine_CEP.pdf) - Due at class time (04/10/2021)
 
 [Homework 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine.pdf) - Due at class time (11/10/2021)
+
+-->
