@@ -41,11 +41,15 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | **Date**   | **Lecture No. (Download Link)**                                                                                      | **Topic**                            |
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | 20/04/2022 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/IC_Engine_1.pdf)                 | Introduction                         |
+| 27/04/2022 | See Lecture 1                | Introduction Continued                        |
+| 04/05/2021 | No Class - Eid Vacations  | --           |
+| 11/05/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf)  | Operating Characteristics            |
+| 18/05/2021 | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_3.pdf)  | Operating Characteristics + Problems |
 
 <!--
 
-| 05/07/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf)  | Operating Characteristics            |
-| 12/07/2021 | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_3.pdf)  | Problems (Operating Characteristics) |
+
+
 | 19/07/2021 |                                                                                                                      | No Class - Eid Ul Adha 2021          |
 | 26/07/2021 | PEC Visit - Class to be rescheduled!                                                                                 | Scheduled on 20/08/2021              |
 | 02/08/2021 | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)  | Engine Cycles                        |
