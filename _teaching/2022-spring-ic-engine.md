@@ -70,9 +70,9 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 Assignments/Homeworks
 ======
 
-<!--
-[Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_1_IC_Engine.pdf) - Due at class time (16/08/2021)
 
+[Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2022/Homework_1_IC_Engine.pdf) - Due at class time (22/06/2022)
+<!--
 [Homework 2 (Complex Engineering Problem #1)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine_CEP.pdf) - Due at class time (04/10/2021)
 
 [Homework 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine.pdf) - Due at class time (11/10/2021)
