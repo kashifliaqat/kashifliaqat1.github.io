@@ -22,11 +22,15 @@ Downloads
 ======
 [Course Outline/Syllabus](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_syllabus.pdf)
 
+
+
+[Mid Formula Sheet](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Mid_Formula_Sheet.pdf)
+
 <!--
     
 [Grades](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/grades_ic_engine.pdf)
 
-[Formula Sheet](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Final_Formula_Sheet.pdf)
+
 
 [Presentation groups](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Presentation_groups.pdf) - 
 [Presentation topics](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_Presentation_Topics.pdf)
@@ -42,18 +46,17 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 |------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 | 20/04/2022 | [Lecture 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/IC_Engine_1.pdf)                 | Introduction                         |
 | 27/04/2022 | See Lecture 1                | Introduction Continued                        |
-| 04/05/2021 | No Class - Eid Vacations  | --           |
-| 11/05/2021 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf)  | Operating Characteristics            |
-| 18/05/2021 | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_3.pdf)  | Operating Characteristics + Problems |
+| 04/05/2022 | No Class - Eid Vacations  | --           |
+| 11/05/2022 | [Lecture 2](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_2.pdf)  | Operating Characteristics            |
+| 18/05/2022 | [Lecture 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_3.pdf)  | Operating Characteristics + Problems |
+| 25/05/2022 | See Lecture 3  | Problems|
+| 01/06/2022 | Mechanical Workshop | Disassembly/Assembly of IC Engine |
+| 08/06/2022 | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)  | Engine Cycles 
+| 15/06/2022 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)  | Problems (Engine Cycles)             |
 
 <!--
 
 
-
-| 19/07/2021 |                                                                                                                      | No Class - Eid Ul Adha 2021          |
-| 26/07/2021 | PEC Visit - Class to be rescheduled!                                                                                 | Scheduled on 20/08/2021              |
-| 02/08/2021 | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)  | Engine Cycles                        |
-| 09/08/2021 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)  | Problems (Engine Cycles)             |
 | 16/08/2021 | [Lecture 6](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_6.pdf)  | Engine Fuels and Knocking            |
 | 20/08/2021 | Lecture 7                                                                                                            | Quiz 1 + Mid Exam Review             | 
 | 23/08/2021 | No Class                                                                                                             | Mid Exams                            |
