@@ -53,16 +53,16 @@ Reference Book: "Engineering Fundamentals of the Internal Combustion Engine" by 
 | 01/06/2022 | Mechanical Workshop | Disassembly/Assembly of IC Engine |
 | 08/06/2022 | [Lecture 4](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_4.pdf)  | Engine Cycles 
 | 15/06/2022 | [Lecture 5](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_5.pdf)  | Problems (Engine Cycles)             |
+| 22/06/2022 | Review                                                                                                           |  Mid Exam Review             |
+| 29/06/2022 | No Class                                                                                                             | Mid Exams                            |
+| 06/07/2022 | [Lecture 6](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_6.pdf)  | Engine Fuels and Knocking            |
+| 13/07/2022 | No Class                                                                                                             | Eid Holiday                       |
+| 20/07/2022 | [Lecture 8](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_8.pdf)  | Air and Fuel Induction               |
+| 27/07/2022 | [Lecture 9](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_9.pdf)  | Air and Fuel Induction (Problems)    |
+| 03/08/2022 | See Lecture 9  | Air and Fuel Induction (Problems)    |
 
 <!--
 
-
-| 16/08/2021 | [Lecture 6](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_6.pdf)  | Engine Fuels and Knocking            |
-| 20/08/2021 | Lecture 7                                                                                                            | Quiz 1 + Mid Exam Review             | 
-| 23/08/2021 | No Class                                                                                                             | Mid Exams                            |
-| 30/08/2021 | No Class                                                                                                             | Mid Exams                            |
-| 06/09/2021 | [Lecture 8](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_8.pdf)  | Air and Fuel Induction               |
-| 13/09/2021 | [Lecture 9](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_9.pdf)  | Air and Fuel Induction (Problems)    |
 | 20/09/2021 | Lecture 10                                                                                                           | Student Presentations                |
 | 27/09/2021 | [Lecture 11](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_10.pdf)| Fluid Motion - Exhaust Flow          |
 | 04/10/2021 | [Lecture 12](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/IC_Engine_12.pdf)| Heat Transfer in Engines             |
@@ -76,9 +76,10 @@ Assignments/Homeworks
 
 [Homework 1](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2022/Homework_1_IC_Engine.pdf) - Due at class time (22/06/2022)
 
-<!--
 
-[Homework 2 (Complex Engineering Problem #1)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine_CEP.pdf) - Due at class time (04/10/2021)
+[Homework 2 (Complex Engineering Problem #1)](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine_CEP.pdf) - Due at class time (24/08/2022)
+
+<!--
 
 [Homework 3](https://github.com/kashifliaqat/kashifliaqat.github.io/raw/master/files/ic_engine_2021/Homework_2_IC_Engine.pdf) - Due at class time (11/10/2021)
 
