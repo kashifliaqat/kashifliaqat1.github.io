@@ -24,3 +24,6 @@ In my free time, I like to play [Cricket](https://www.britannica.com/sports/cric
 07/01/2021 - Started working at BUITEMS - Lecturer, Mechanical Engineering
 
 04/24/2021 - Graduated From Florida State University - MS Mechanical Engineering
+
+
+<img src="https://github.com/kashifliaqat/kashifliaqat.github.io/blob/master/images/profile.png.jpeg" width="200" height="200" />
