@@ -26,4 +26,4 @@ In my free time, I like to play [Cricket](https://www.britannica.com/sports/cric
 04/24/2021 - Graduated From Florida State University - MS Mechanical Engineering
 
 
-<img src="https://github.com/kashifliaqat/kashifliaqat.github.io/blob/master/images/profile.png.jpeg" width="200" height="200" />
+<img src="/images/about/rice.png" width="80" height="80" />  <img src="/images/about/buitems.png" width="80" height="80" /> <img src="/images/about/FSU.png" width="80" height="80" /> <img src="/images/about/CAPS.jfif" width="80" height="80" /> <img src="/images/about/NREL.png" width="120" height="70" />
